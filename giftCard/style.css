@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    height: 100% vh;
+}
+
+.main_gift{
+    background-color: darkcyan;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container_search{
+    background-color: darkolivegreen;
+    height: 3rem;
+    width: 100%;
+    align-items: center;
+
+}
